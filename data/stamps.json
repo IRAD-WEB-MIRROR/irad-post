@@ -1,0 +1,513 @@
+{
+ "_comment": "Stamp issues of Irad Pochtasy and its predecessor. value in som (territorial issues in US cents). status: issued, forthcoming, unissued. style: photo (vignette from src cropped to crop = left, top, right, bottom fractions), engraved, definitive, emblem. Images made by tools/stamps.py from tools/src.",
+ "issues": [
+  {
+   "id": "2004-heritage",
+   "date": "2004-08-24",
+   "issuer": "TERRITORY OF IRAD",
+   "issuer_size": 11.5,
+   "status": "issued",
+   "title": {
+    "en": "Church of St. Janyl, World Heritage",
+    "ir": "Iyık Janıl chirköösü",
+    "ru": "Церковь Святой Джаныл"
+   },
+   "sub": "WORLD HERITAGE · 2004",
+   "note": {
+    "en": "Issued by the Territorial Postal Service on the saint's feast, after the church and the ruins of Old Iyık Janyl were inscribed on the World Heritage List. Values in US cents, for letters to the United States sent through Talas Air Base; valid until 2007.",
+    "ir": "Iyık Janıldın mayramında Aymaktık pochta kızmatı chıgargan: chirköö jana Eski Iyık Janıldın urandıları Düynölük muras tizmesine kirgizilgenden kiyin. Bahası AKSh tsenti menen, Talas aba bazası arkıluu AKShga jönötülgön kat üchün; 2007-jılga cheyin jaraktuu bolgon.",
+    "ru": "Выпущена Территориальной почтовой службой в праздник святой, после включения церкви и руин Старого Ийык-Джаныла в Список всемирного наследия. Номинал в центах США — для писем в США через авиабазу Талас; действовала до 2007 года."
+   },
+   "stamps": [
+    {
+     "id": "2004-heritage-37",
+     "value": "37",
+     "title_en": "Church of St. Janyl",
+     "motif": "church",
+     "colors": {
+      "paper": "#fbf8ef",
+      "ink": "#3b2a14",
+      "light": "#efe3c8",
+      "accent": "#2f8f9d",
+      "band": "#6b4a1e"
+     },
+     "unit": "cents"
+    }
+   ],
+   "style": "engraved",
+   "src": "Church_of_St_Janyl.jpg",
+   "crop": [
+    0.47,
+    0.02,
+    0.97,
+    0.7
+   ]
+  },
+  {
+   "id": "2007-dri",
+   "date": "2007-02-12",
+   "issuer": "DEMOKRATIYALYK IRAD",
+   "issuer_size": 10.5,
+   "status": "unissued",
+   "title": {
+    "en": "Courier definitive of the Democratic Republic (not issued)",
+    "ir": "Chabarman",
+    "ru": "Курьер (не выпущена)"
+   },
+   "sub": "NOT ISSUED",
+   "note": {
+    "en": "Printed in Kobozev for the Democratic Republic of Irad and due on sale on 26 February 2007. After the Irad Special Economic Zone was proclaimed on 25 February the sheets were withdrawn and pulped. A few came onto the market in the 2010s; the Philatelic Bureau does not sell or value them.",
+    "ir": "Irad Demokratiyalık Respublikası üchün Kobozevde basılgan, 2007-jıldın 26-fevralında satuuga chıgıshı kerek bolgon. 25-fevralda Irad Atayın Ekonomikalık Zonası jarıyalangandan kiyin baraktar kaytarılıp, joyuldu. 2010-jıldarı bir nechesi bazarga chıktı; Filateliya byurosu alardı satpayt jana baalabayt.",
+    "ru": "Отпечатана в Кобозеве для Демократической Республики Ирад и должна была поступить в продажу 26 февраля 2007 года. После провозглашения Особой экономической зоны Ирад 25 февраля листы изъяли и уничтожили. Несколько экземпляров появились в продаже в 2010-х; Филателистическое бюро их не продаёт и не оценивает."
+   },
+   "stamps": [
+    {
+     "id": "2007-dri-5",
+     "value": "5",
+     "title_en": "Courier",
+     "motif": "unissued",
+     "colors": {
+      "paper": "#fbf8ef",
+      "ink": "#4a3a3a",
+      "light": "#eadede",
+      "accent": "#c9a43c",
+      "band": "#6e5a5a"
+     },
+     "overprint": "SPECIMEN"
+    }
+   ],
+   "style": "definitive"
+  },
+  {
+   "id": "2008-courier",
+   "date": "2008-03-11",
+   "status": "issued",
+   "title": {
+    "en": "Definitives: the courier",
+    "ir": "Chabarman",
+    "ru": "Стандартные марки: курьер"
+   },
+   "sub": "IRAD POST · ИРАДПОЧТА",
+   "note": {
+    "en": "The first stamps of Irad Pochtasy, issued on Irad Day with the service's new name. The galloping courier recalls the mounted relay riders who carried messages between the stations of the old post roads. Reprinted many times; still on sale.",
+    "ir": "Irad Pochtasının algachkı markaları, Irad künü jañı at menen chıgarılgan. Chapkan chabarman eski pochta joldorunun beketteri arasında kabar tashıgan atchan chabarmandardı eske salat. Köp jolu kayra basılgan; azır da satılat.",
+    "ru": "Первые марки «Ирадпочты», выпущенные в День Ирада вместе с новым названием службы. Скачущий курьер напоминает о конных гонцах, возивших вести между станциями старых почтовых трактов. Много раз переиздавались; продаются до сих пор."
+   },
+   "stamps": [
+    {
+     "id": "2008-courier-1",
+     "value": "1",
+     "title_en": "Courier, 1 som",
+     "motif": "courier",
+     "colors": {
+      "paper": "#fbf8ef",
+      "ink": "#0B4A61",
+      "light": "#CFE6EE",
+      "accent": "#F2B705",
+      "band": "#0B6280"
+     }
+    },
+    {
+     "id": "2008-courier-4",
+     "value": "4",
+     "title_en": "Courier, 4 som",
+     "motif": "courier",
+     "colors": {
+      "paper": "#fbf8ef",
+      "ink": "#1f4a36",
+      "light": "#d7eadf",
+      "accent": "#F2B705",
+      "band": "#2f6f4f"
+     }
+    },
+    {
+     "id": "2008-courier-8",
+     "value": "8",
+     "title_en": "Courier, 8 som",
+     "motif": "courier",
+     "colors": {
+      "paper": "#fbf8ef",
+      "ink": "#5a2a12",
+      "light": "#f0dccb",
+      "accent": "#F2B705",
+      "band": "#7a3b1c"
+     }
+    },
+    {
+     "id": "2008-courier-20",
+     "value": "20",
+     "title_en": "Courier, 20 som",
+     "motif": "courier",
+     "colors": {
+      "paper": "#fbf8ef",
+      "ink": "#33204a",
+      "light": "#e3dcef",
+      "accent": "#F2B705",
+      "band": "#4b2f6b"
+     }
+    }
+   ],
+   "style": "definitive"
+  },
+  {
+   "id": "2009-emblem",
+   "date": "2009-11-01",
+   "status": "issued",
+   "title": {
+    "en": "The State Emblem",
+    "ir": "Mamlekettik gerb",
+    "ru": "Государственный герб"
+   },
+   "sub": "1 · XI · 2009",
+   "note": {
+    "en": "Issued on the day the State Emblem came into force under the amended State Symbols Act.",
+    "ir": "Mamlekettik gerb özgörtülgön Mamlekettik simvoldor jönündögü mıyzam boyuncha küchünö kirgen kündö chıgarılgan.",
+    "ru": "Выпущена в день вступления в силу Государственного герба по изменённому Закону о государственных символах."
+   },
+   "stamps": [
+    {
+     "id": "2009-emblem-20",
+     "value": "20",
+     "title_en": "State Emblem",
+     "motif": "emblem",
+     "colors": {
+      "paper": "#fbf8ef",
+      "ink": "#6d0710",
+      "light": "#f8e7e6",
+      "accent": "#d4a72c",
+      "band": "#a8101a"
+     }
+    }
+   ],
+   "style": "emblem"
+  },
+  {
+   "id": "2014-silkroads",
+   "date": "2014-06-22",
+   "status": "issued",
+   "title": {
+    "en": "Silk Roads: Rabat-i-Safed",
+    "ir": "Jibek Jolu: Rabat-i-Safed",
+    "ru": "Шёлковый путь: Рабат-и-Сафед"
+   },
+   "sub": "JIBEK JOLU",
+   "note": {
+    "en": "Marks the inscription of the Silk Roads routes on the World Heritage List, whose Kazakh and Kyrgyz components include the caravanserai of Rabat-i-Safed in the Talas valley.",
+    "ir": "Jibek Jolu marshruttarının Düynölük muras tizmesine kirgizilishin belgileyt; anın Kazak jana Kırgız bölüktörünö Talas öröönündögü Rabat-i-Safed karvan-sarayı kiret.",
+    "ru": "Посвящена включению маршрутов Шёлкового пути в Список всемирного наследия; в их казахстанскую и кыргызскую части входит караван-сарай Рабат-и-Сафед в Таласской долине."
+   },
+   "stamps": [
+    {
+     "id": "2014-silkroads-12",
+     "value": "12",
+     "title_en": "Caravanserai of Rabat-i-Safed",
+     "motif": "caravanserai",
+     "colors": {
+      "paper": "#fbf8ef",
+      "ink": "#4a3418",
+      "light": "#f1e2c3",
+      "accent": "#b5651d",
+      "band": "#8a5a20"
+     }
+    }
+   ],
+   "style": "photo",
+   "src": "Caravanserai_of_Rabat-i-Safed.jpg",
+   "crop": [
+    0.47,
+    0.0,
+    1.0,
+    0.86
+   ]
+  },
+  {
+   "id": "2018-zharkyn",
+   "date": "2018-03-11",
+   "status": "issued",
+   "title": {
+    "en": "The Governor and Zharkyn",
+    "ir": "Gubernator jana Zharkın",
+    "ru": "Губернатор и Жаркын"
+   },
+   "sub": "IRAD KÜNÜ · 2018",
+   "note": {
+    "en": "Issued for Irad Day: the Governor with his stallion Zharkyn, from a photograph taken after a race in 2014. The most-used commemorative of the decade.",
+    "ir": "Irad kününö: Gubernator özünün Zharkın aygırı menen, 2014-jılı chabıştan kiyin tartılgan süröttön. On jıldıktın eñ köp koldonulgan estelik markası.",
+    "ru": "Выпущена ко Дню Ирада: Губернатор со своим жеребцом Жаркыном, по фотографии, сделанной после скачек в 2014 году. Самая используемая памятная марка десятилетия."
+   },
+   "stamps": [
+    {
+     "id": "2018-zharkyn-20",
+     "value": "20",
+     "title_en": "The Governor and Zharkyn",
+     "motif": "rider",
+     "colors": {
+      "paper": "#fbf8ef",
+      "ink": "#2a2016",
+      "light": "#efe6d4",
+      "accent": "#c9a43c",
+      "band": "#7a1f23"
+     }
+    }
+   ],
+   "style": "photo",
+   "src": "Erlan_Toktarov_Zharkyn_2014.jpg",
+   "crop": [
+    0.0,
+    0.06,
+    0.66,
+    1.0
+   ]
+  },
+  {
+   "id": "2019-akyel",
+   "date": "2019-09-14",
+   "status": "issued",
+   "title": {
+    "en": "Horses of Irad: the Akyel",
+    "ir": "Akyel",
+    "ru": "Акыел"
+   },
+   "sub": "IRADDIN ATTARI",
+   "note": {
+    "en": "The golden Akyel, the riding breed of the Talas valley. First of the Horses of Irad series; the Chongtor followed in 2020.",
+    "ir": "Talas öröönünün minme tukumu, altın tüstüü Akyel. «Iraddın attarı» seriyasının birinchisi; 2020-jılı Chongtor chıktı.",
+    "ru": "Золотистый акыел — верховая порода Таласской долины. Первая марка серии «Лошади Ирада»; в 2020 году вышел чонгтор."
+   },
+   "stamps": [
+    {
+     "id": "2019-akyel-12",
+     "value": "12",
+     "title_en": "The Akyel",
+     "motif": "golden_horse",
+     "colors": {
+      "paper": "#fbf8ef",
+      "ink": "#4a3510",
+      "light": "#f6ecd2",
+      "accent": "#d9a521",
+      "band": "#6b4c06"
+     }
+    }
+   ],
+   "style": "photo",
+   "src": "Akyel_horses_galloping.jpg",
+   "crop": [
+    0.04,
+    0.26,
+    0.96,
+    0.96
+   ],
+   "orient": "landscape"
+  },
+  {
+   "id": "2021-komuz",
+   "date": "2021-06-21",
+   "status": "issued",
+   "title": {
+    "en": "Music of Irad: the komuz",
+    "ir": "Komuz",
+    "ru": "Комуз"
+   },
+   "sub": "IRAD MUZIKASI",
+   "note": {
+    "en": "Issued on the day of the Talas komuz festival.",
+    "ir": "Talas komuz festivalının künü chıgarılgan.",
+    "ru": "Выпущена в день Таласского фестиваля комуза."
+   },
+   "stamps": [
+    {
+     "id": "2021-komuz-8",
+     "value": "8",
+     "title_en": "Komuz",
+     "motif": "komuz",
+     "colors": {
+      "paper": "#fbf8ef",
+      "ink": "#3b2412",
+      "light": "#f1e3d0",
+      "accent": "#a0612b",
+      "band": "#5b3a1c"
+     }
+    }
+   ],
+   "style": "photo",
+   "src": "komuz.jpg",
+   "crop": [
+    0.05,
+    0.04,
+    0.95,
+    0.96
+   ]
+  },
+  {
+   "id": "2022-ibex",
+   "date": "2022-05-15",
+   "status": "issued",
+   "title": {
+    "en": "Fauna of the Talas Alatau: the ibex",
+    "ir": "Teke",
+    "ru": "Горный козёл"
+   },
+   "sub": "TALAS ALATOO",
+   "note": {
+    "en": "First of a series on the animals of the mountains.",
+    "ir": "Toolordun janıbarları jönündögü seriyanın birinchisi.",
+    "ru": "Первая марка серии о животных гор."
+   },
+   "stamps": [
+    {
+     "id": "2022-ibex-8",
+     "value": "8",
+     "title_en": "Siberian ibex",
+     "motif": "ibex",
+     "colors": {
+      "paper": "#fbf8ef",
+      "ink": "#25352a",
+      "light": "#dfe9dc",
+      "accent": "#e8b84a",
+      "band": "#3d5a3f"
+     }
+    }
+   ],
+   "style": "photo",
+   "src": "ibex.jpg",
+   "crop": [
+    0.0,
+    0.12,
+    0.86,
+    1.0
+   ]
+  },
+  {
+   "id": "2024-janyl",
+   "date": "2024-08-24",
+   "status": "issued",
+   "title": {
+    "en": "Feast of St. Janyl",
+    "ir": "Iyık Janıl mayramı",
+    "ru": "Праздник Святой Джаныл"
+   },
+   "sub": "24 · VIII · 2024",
+   "note": {
+    "en": "Issued at the Iyık Janyl post office on the feast; first-day covers were stamped with a pilgrimage postmark.",
+    "ir": "Mayramda Iyık Janıl pochta bölümündö chıgarılgan; birinchi kündün konvertterine ziyarat pochta möörü basılgan.",
+    "ru": "Выпущена в почтовом отделении Ийык-Джаныла в праздник; конверты первого дня гасились паломническим штемпелем."
+   },
+   "stamps": [
+    {
+     "id": "2024-janyl-12",
+     "value": "12",
+     "title_en": "Church of St. Janyl",
+     "motif": "church",
+     "colors": {
+      "paper": "#fbf8ef",
+      "ink": "#123a4a",
+      "light": "#e2f0f3",
+      "accent": "#2f8f9d",
+      "band": "#0b6280"
+     }
+    }
+   ],
+   "style": "photo",
+   "src": "Feast_of_St_Janyl.jpg",
+   "crop": [
+    0.14,
+    0.04,
+    0.66,
+    1.0
+   ]
+  },
+  {
+   "id": "2026-horse",
+   "date": "2026-03-11",
+   "status": "issued",
+   "title": {
+    "en": "The Year of the Horse",
+    "ir": "Jılkı jılı",
+    "ru": "Год Лошади"
+   },
+   "sub": "JILKI JILI · 2026",
+   "note": {
+    "en": "For the new twelve-year cycle, which began with a Horse year in 2026, under Polaris.",
+    "ir": "2026-jılı Jılkı jılı menen bashtalgan jañı on eki jıldık tsikl üchün, Temir Kazıktın astında.",
+    "ru": "К новому двенадцатилетнему циклу, начавшемуся в 2026 году с года Лошади, под Полярной звездой."
+   },
+   "stamps": [
+    {
+     "id": "2026-horse-8",
+     "value": "8",
+     "title_en": "Year of the Horse: galloping horse, 8 som",
+     "motif": "horse_year",
+     "colors": {
+      "paper": "#fbf8ef",
+      "ink": "#1d2a44",
+      "light": "#dfe5f2",
+      "accent": "#F2B705",
+      "band": "#1d3a6b"
+     }
+    },
+    {
+     "id": "2026-horse-20",
+     "value": "20",
+     "title_en": "Year of the Horse: mare and foal, 20 som",
+     "motif": "horse_year",
+     "colors": {
+      "paper": "#fbf8ef",
+      "ink": "#4a1414",
+      "light": "#f3dede",
+      "accent": "#F2B705",
+      "band": "#8a1c1c"
+     },
+     "src": "horseyear-20.jpg"
+    }
+   ],
+   "style": "photo",
+   "src": "horseyear.jpg",
+   "crop": [
+    0,
+    0,
+    1,
+    1
+   ]
+  },
+  {
+   "id": "2026-toktogul",
+   "date": "2026-12-15",
+   "status": "forthcoming",
+   "title": {
+    "en": "Toktogul: 1,440 megawatts",
+    "ir": "Toktogul GES",
+    "ru": "Токтогульская ГЭС"
+   },
+   "sub": "1 440 MW",
+   "note": {
+    "en": "Marks the completion of the Toktogul refit, which raised the station to 1,440 MW in October 2026.",
+    "ir": "2026-jıldın oktyabrında stantsiyanı 1 440 MVtka chıgargan Toktogul GESin jañıloonun ayaktalışın belgileyt.",
+    "ru": "Посвящена завершению модернизации Токтогульской ГЭС, которая в октябре 2026 года довела мощность станции до 1 440 МВт."
+   },
+   "stamps": [
+    {
+     "id": "2026-toktogul-12",
+     "value": "12",
+     "title_en": "Toktogul dam",
+     "motif": "dam",
+     "colors": {
+      "paper": "#fbf8ef",
+      "ink": "#123344",
+      "light": "#dcebf1",
+      "accent": "#3fa7c8",
+      "band": "#1b4f66"
+     }
+    }
+   ],
+   "style": "photo",
+   "src": "Toktogul_dam_Naryn.jpg",
+   "crop": [
+    0.06,
+    0.12,
+    0.98,
+    0.98
+   ],
+   "orient": "landscape"
+  }
+ ]
+}

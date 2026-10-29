@@ -1,0 +1,68 @@
+{
+  "_readme": "Picture sides of the e-postcard. Source photos in tools/src/cards/<id>.jpg; run python3 tools/cards.py, then tools/build.py. 'place' is written on the front; the caption (three languages) on the back.",
+  "cards": [
+    {
+      "id": "talas",
+      "place": "Talas",
+      "en": "Talas: the citadel above the Old City",
+      "ir": "Talas: Köhne Diz, Eski shaardyn üstündö",
+      "ru": "Талас: цитадель над Старым городом"
+    },
+    {
+      "id": "iyik-janyl",
+      "place": "Iyık Janyl",
+      "en": "Iyık Janyl: the steps to the Church of St. Janyl",
+      "ir": "Iyık Janyl: Iyık Janyl chirköösünö baskychtar",
+      "ru": "Ийык-Джаныл: ступени к церкви Святой Джаныл"
+    },
+    {
+      "id": "jayloo",
+      "place": "Talas Alatau",
+      "en": "A summer pasture in the Talas Alatau",
+      "ir": "Talas Alatausundagy jayloo",
+      "ru": "Летнее пастбище в Таласском Алатау"
+    },
+    {
+      "id": "blessing",
+      "place": "Irad",
+      "en": "The Blessing of the Herds",
+      "ir": "Üyürlörgö bata",
+      "ru": "Благословение табунов"
+    },
+    {
+      "id": "steppe",
+      "place": "Irad",
+      "en": "The Northern Steppe: a herd at dusk",
+      "ir": "Tündük talaa: kechki üyür",
+      "ru": "Северная степь: табун на закате"
+    },
+    {
+      "id": "nurzhan",
+      "place": "Nurzhan",
+      "en": "Nurzhan: the oil field above the Chu in winter",
+      "ir": "Nurzhan: kyshta Chuunun üstündögü nebit kendi",
+      "ru": "Нуржан: нефтепромысел над Чу зимой"
+    },
+    {
+      "id": "toktogul",
+      "place": "Toktogul",
+      "en": "The Toktogul reservoir and State Route 1",
+      "ir": "Toktogul suu saktagychy jana 1-mamlekettik jol",
+      "ru": "Токтогульское водохранилище и трасса № 1"
+    },
+    {
+      "id": "bazar-korgon",
+      "place": "Bazar-Korgon",
+      "en": "Bazar-Korgon: the walnut bazaar",
+      "ir": "Bazar-Korgon: jangak bazary",
+      "ru": "Базар-Коргон: ореховый базар"
+    },
+    {
+      "id": "khirnou",
+      "place": "Irad",
+      "en": "The Khirnou valley: the stone village of Chakmak-Suu",
+      "ir": "Khirnou öröönü: Chakmak-Suunun tash kyshtagy",
+      "ru": "Долина Хирноу: каменное село Чакмак-Суу"
+    }
+  ]
+}
