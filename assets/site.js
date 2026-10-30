@@ -80,7 +80,7 @@
       sort: { en: "Sorted, Talas sorting centre", ir: "Talas sortirovka borborunda sortirovkalandı", ru: "Обработано, Таласский сортировочный центр" },
       disp: { en: "Dispatched to {p}", ir: "{p} karay jönötüldü", ru: "Отправлено в {p}" },
       arr: { en: "Arrived at {p}", ir: "{p} keldi", ru: "Прибыло: {p}" },
-      wait: { en: "Awaiting collection at {p}. Bring your ID card; items are kept for 30 days.", ir: "{p} aluuga dayar. Jeke kuböölügüñüzdü ala keliñiz; jönötmölör 30 kün saktalat.", ru: "Ожидает получения: {p}. Возьмите удостоверение личности; отправления хранятся 30 дней." },
+      wait: { en: "Awaiting collection at {p}. Bring your ID card and the notice (form P-22); items are kept for 30 days.", ir: "{p} aluuga dayar. Jeke kuböölügüñüzdü jana bildirüünü (P-22 forması) ala keliñiz; jönötmölör 30 kün saktalat.", ru: "Ожидает получения: {p}. Возьмите удостоверение личности и извещение (бланк P-22); отправления хранятся 30 дней." },
       deliv: { en: "Delivered", ir: "Tapshırıldı", ru: "Вручено" },
       abroad: { en: "Accepted for posting abroad ({c})", ir: "Chet elde jönötüügö kabıl alındı ({c})", ru: "Принято к пересылке за рубежом ({c})" },
       almaty: { en: "Received by the Kazakh postal service, Almaty international exchange", ir: "Kazakstan pochta kızmatı aldı, Almatı el aralık almashuu punktu", ru: "Получено казахстанской почтой, Алматинский международный пункт обмена" },
