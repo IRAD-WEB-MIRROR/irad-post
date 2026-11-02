@@ -2,6 +2,12 @@
 (function () {
   "use strict";
   var I = window.POST_I18N || { ir: {}, ru: {} };
+  /* text of the leadership, contacts, news, documents, vacancies and FAQ pages */
+  var S = window.SITE_I18N;
+  if (S) ["ir", "ru"].forEach(function (l) {
+    I[l] = I[l] || {};
+    ["ui", "pages"].forEach(function (s) { var m = S[s] && S[s][l]; if (m) for (var k in m) if (s === "pages" || !(k in I[l])) I[l][k] = m[k]; });
+  });
   var LANG = "en";
   try { LANG = localStorage.getItem("post-lang") || "en"; } catch (e) {}
   if (["en", "ir", "ru"].indexOf(LANG) < 0) LANG = "en";
@@ -55,12 +61,17 @@
     });
     $$("[data-date]").forEach(function (el) { el.textContent = fmtD(parseD(el.getAttribute("data-date"))); });
     $$(".langs button").forEach(function (b) { b.setAttribute("aria-pressed", b.getAttribute("data-lang") === LANG ? "true" : "false"); });
-    var tk = document.body.getAttribute("data-title-key");
+    var tk = document.body.getAttribute("data-title-key") || (document.body.getAttribute("data-title") ? "title_" + document.body.getAttribute("data-title") : "");
     if (tk && LANG !== "en" && I[LANG][tk] && document.body.getAttribute("data-page") !== "index") document.title = I[LANG][tk].replace(/<[^>]+>/g, "") + " · " + (LANG === "ru" ? "Ирадпочта" : "Irad Pochtası");
     else if (LANG === "en" && document.body.dataset.enTitle) document.title = document.body.dataset.enTitle;
     if (window.__postRerender) window.__postRerender();
   }
   document.body.dataset.enTitle = document.title;
+  (function () {   /* menu item for the leadership, contacts, news, documents, vacancies and FAQ pages */
+    var pg = document.body.getAttribute("data-page"), sec = { news: "history.html", leadership: "history.html", contacts: "history.html", documents: "history.html", vacancies: "history.html", faq: "history.html" }[pg];
+    if (!sec || $("nav.main a.on")) return;
+    $$("nav.main a").forEach(function (a) { if (a.getAttribute("href").replace(/^\//, "") === sec) { a.className = "on"; } });
+  })();
   $$(".langs button").forEach(function (b) {
     b.addEventListener("click", function () {
       LANG = b.getAttribute("data-lang");

@@ -122,3 +122,23 @@ footer { background: var(--teal-deep); color: #cfe2ea; font-size: .88rem; paddin
 footer .wrap { display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 20px; }
 footer a { color: #fff; } footer h4 { color: #fff; margin: 0 0 6px; font-size: .95rem; }
 footer .copy { grid-column: 1 / -1; color: #9fc0cc; font-size: .8rem; border-top: 1px solid #2a6a80; padding-top: 12px; }
+
+/* leadership, contacts, news (.release), documents, vacancies and FAQ pages: the same cards, lines and colours as above */
+.lead { font-size: 1.05rem; color: var(--ink-2); }
+.grid { display: grid; gap: 16px; } .g-2 { grid-template-columns: repeat(auto-fill, minmax(280px, 1fr)); }
+.g-main { grid-template-columns: minmax(0, 1fr) 300px; gap: 30px; } @media (max-width: 860px) { .g-main { grid-template-columns: 1fr; } }
+.dept, .doc, .release { background: #fff; border: 1px solid var(--line); border-radius: 6px; padding: 18px 20px; margin-bottom: 16px; }
+.dept h3, .doc h3, .doc h1, .release h1 { margin-top: 0; } .dept .head { color: var(--muted); margin-top: 0; }
+.doc header { border-bottom: 1px solid var(--line); margin-bottom: 10px; padding-bottom: 4px; }
+.doc .no, .plist .meta, .release .meta { font-size: .85rem; color: var(--muted); }
+.doc .tag { font-size: .75rem; font-weight: 700; padding: 1px 8px; border-radius: 10px; background: var(--teal-pale); color: var(--teal-deep); }
+.plist { list-style: none; padding: 0; margin: 0 0 18px; } .plist li { border-bottom: 1px solid var(--line); padding: 10px 0; } .plist .t { font-weight: 600; } .plist .s { margin: 4px 0 0; }
+.person { display: grid; grid-template-columns: 180px minmax(0, 1fr); gap: 24px; } @media (max-width: 640px) { .person { grid-template-columns: 1fr; } }
+.portrait { background: #fff; border: 1px solid var(--line); border-radius: 6px; padding: 16px; text-align: center; color: var(--muted); font-size: .88rem; }
+.portrait img { display: block; margin: 0 auto 8px; }
+.kv { display: grid; grid-template-columns: 170px minmax(0, 1fr); gap: 4px 12px; margin: 0 0 10px; } .kv dt { color: var(--muted); } .kv dd { margin: 0; }
+@media (max-width: 520px) { .kv { grid-template-columns: 1fr; } .kv dd { margin-bottom: 6px; } }
+.sect-h { display: flex; justify-content: space-between; align-items: baseline; gap: 10px; flex-wrap: wrap; } .sect-h h2 { margin-bottom: .4em; }
+main .kit-year { border-bottom: 1px solid var(--line); }
+.kit-home { display: none; }
+.kit-contacts .card h3 { margin-top: 0; }
