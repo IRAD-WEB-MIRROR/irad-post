@@ -184,7 +184,7 @@
       $("#pc-cap").textContent = (pv.getAttribute("data-" + LANG) || pv.getAttribute("data-en")) + " · " + serLine(pv);
       var pg = pv.getAttribute("data-page");
       $("#pc-palace").hidden = !pg;
-      if (pg) $("#pc-palace-a").href = "https://iradpalaceof.art/" + pg;
+      if (pg) $("#pc-palace-a").href = "https://palace.korkom.org/" + pg;
     }
     $("#pc-vmsg").textContent = c.m || "";
     $("#pc-vto").textContent = c.t ? u("dear") + ": " + c.t : "";
