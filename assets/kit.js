@@ -177,9 +177,9 @@
    "kit_isclosed": "Konkurs jabıldı",
    "kit_phone": "Tel.",
    "kit_nav": "Ishkana",
-   "kh1": "Otkrıtkalar: Körköm saraydın seriyası",
-   "kh2": "Noyabrdagı pensiyalar 10-kündön tartıp",
-   "kh3": "2027-jılga jazıluu 1-noyabrda bashtalat"
+   "kh1": "Emgek jana sotsialdyk korgoo ministrligi: migranttardyn üy-bülölörünün tizmesi kömök tölöönün negizi bolup kalat",
+   "kh2": "Otkrıtkalar: Körköm saraydın seriyası",
+   "kh3": "Noyabrdagı pensiyalar 10-kündön tartıp"
   },
   "ru": {
    "kit_home": "Главная",
@@ -223,9 +223,9 @@
    "kit_isclosed": "Конкурс завершён",
    "kit_phone": "Тел.",
    "kit_nav": "Предприятие",
-   "kh1": "Открытки: серия «Дворец искусств»",
-   "kh2": "Пенсии за ноябрь — с 10-го числа",
-   "kh3": "Подписка на 2027 год открывается 1 ноября"
+   "kh1": "Минтруд: реестр семей мигрантов остаётся основой для выплаты пособий",
+   "kh2": "Открытки: серия «Дворец искусств»",
+   "kh3": "Пенсии за ноябрь — с 10-го числа"
   }
  }
 });
