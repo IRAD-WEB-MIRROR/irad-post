@@ -1,5 +1,5 @@
 {
-  "_readme": "Picture sides of the postcards, in four series: views, greetings, stamps (Irad Pochtasy's own cards) and palace (the Palace of Art series, works from palace.korkom.org). kind photo: tools/src/cards/<id>.jpg; greet: a greeting card drawn from tools/src/<src>; stamp: a maximum card of img/stamps/<stamp>.webp; art: the Palace's img/src/<src>.png. Run python3 tools/cards.py [--palace DIR], then tools/build.py. 'place' is written on the front; the caption (three languages) on the back. Keep the order of the palace cards: they are numbered.",
+  "_readme": "Picture sides of the postcards, in four series: views, greetings, stamps (Irad Pochtasy's own cards) and palace (the Palace of Art series, works from palace.korkom.org). 'place' is written on the front; the caption (three languages) on the back. The palace cards are numbered.",
   "cards": [
     {
       "id": "talas",
