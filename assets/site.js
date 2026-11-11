@@ -9,7 +9,7 @@
     ["ui", "pages"].forEach(function (s) { var m = S[s] && S[s][l]; if (m) for (var k in m) if (s === "pages" || !(k in I[l])) I[l][k] = m[k]; });
   });
   var LANG = "en";
-  try { LANG = localStorage.getItem("post-lang") || "en"; } catch (e) {}
+  try { LANG = localStorage.getItem("post-lang") || "ir"; } catch (e) { LANG = "ir"; }
   if (["en", "ir", "ru"].indexOf(LANG) < 0) LANG = "en";
 
   var UI = {
@@ -24,7 +24,7 @@
     },
     ir: {
       months: ["yanvar", "fevral", "mart", "aprel", "may", "iyun", "iyul", "avgust", "sentyabr", "oktyabr", "noyabr", "dekabr"],
-      notFound: "Jazuu tabılgan jok. Nomerdi tekshirip, kayra araket kılıñız.",
+      notFound: "Jazuu tabılgan jok. Nomerdi teksherip, kayra araket kılıñız.",
       copied: "Shilteme köchürüldü.", copyFail: "Darekti brauzerdin darek sabınan köchürüñüz.",
       pensionDay: "Tölöm {d} bashtalat", gotCard: "Sizge Iraddan otkrıtka keldi.",
       dear: "Kimge", from: "Kimden", saveFail: "Bul brauzerde süröttü jasoo mümkün bolgon jok.",

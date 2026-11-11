@@ -93,7 +93,7 @@ window.POST_I18N = {
 "iPk": "2 kgga cheyinki basma materialdar je dokumentter salıngan kichine banderol",
 "iReg": "Buyurtma, koshumcha",
 "iW": "Bashka ölkölörgö 20 gga cheyinki kat",
-"inCust": "Chet elden kelgen posılkalardı Talas bajı tarıktoo terminalında bajı tekshiret. Deklaratsiya kerek bolso, izdöödö körsötülöt: esep-faktura jana jeke kuböölügüñüz menen terminaldın pochta kassasına keliñiz. Köp chet eldik düköndör Iradga jetkirbeyt.",
+"inCust": "Chet elden kelgen posılkalardı Talas bajı tarizdöö terminalında bajı teksheret. Deklaratsiya kerek bolso, izdöödö körsötülöt: esep-faktura jana jeke kuböölügüñüz menen terminaldın pochta kassasına keliñiz. Köp chet eldik düköndör Iradga jetkirbeyt.",
 "inForm": "Kattan bashka chet elge ar bir jönötmögö <a href=\"forms/P-2.pdf\">P-2 forması</a>, bajı deklaratsiyası, anglis je orus tilinde, eki nuskada tolturulup kerek.",
 "inH": "Chet elge jana chet elden pochta",
 "inP1": "Irad Pochtası el aralık pochtanı eki taraptuu kelishim boyuncha Kazakstan pochta kızmatı arkıluu almashat. Chıguuchu pochta Chüy darbazasındagı almashuu punktunda berilip, Almatı arkıluu jönötülöt. Ar bir tarapka üch-altı juma kütüñüz.",
