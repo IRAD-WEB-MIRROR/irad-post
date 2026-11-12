@@ -149,3 +149,17 @@ main .kit-year { border-bottom: 1px solid var(--line); }
 .kit-home { display: none; }
 .kit-contacts .card h3 { margin-top: 0; }
 @media (max-width: 520px) { .postcard { padding: 12px; gap: 10px; } .postcard .msg { font-size: 1.05rem; padding-top: 44px; } .postcard .addr { font-size: .95rem; gap: 6px; } .postcard .addr span { overflow-wrap: anywhere; min-height: 1.3em; } .postcard .stp { height: 58px; top: 10px; right: 10px; } .postcard .pm { width: 70px; height: 70px; right: 44px; top: 12px; font-size: 7px; } .postcard .cap { max-width: 50%; font-size: 8px; } }
+
+/* stamp album */
+.alform { display: flex; gap: 8px; flex-wrap: wrap; align-items: center; margin: 14px 0 4px; }
+.alform input { font: 600 1rem Consolas, "Courier New", monospace; letter-spacing: .08em; padding: 7px 10px; width: 11em; border: 1px solid var(--line); border-radius: 4px; text-transform: uppercase; }
+.alcount { font-size: 1.1rem; margin: 6px 0 10px; }
+.album { list-style: none; margin: 0; padding: 18px; display: grid; grid-template-columns: repeat(auto-fill, minmax(118px, 1fr)); gap: 18px 14px; background: #f3efe4; border: 1px solid #d9d1bb; border-radius: 4px; }
+.album .slot { text-align: center; font-size: .72rem; color: #6d6450; }
+.album .hole { display: flex; align-items: center; justify-content: center; height: 150px; border: 1px dashed #b9ae90; background: #faf7ef; }
+.album .slot.land .hole { height: 96px; }
+.album .yr { font: 700 1rem Consolas, monospace; color: #c9bfa4; }
+.album .slot.on .hole { border-style: solid; border-color: transparent; background: none; }
+.album .hole img { max-width: 100%; max-height: 100%; filter: drop-shadow(0 1px 2px rgba(0,0,0,.25)); }
+.album .cap { display: block; margin-top: 5px; line-height: 1.25; }
+.album .slot:not(.on) .cap { visibility: hidden; }
